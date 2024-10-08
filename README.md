@@ -74,7 +74,6 @@ Flowchart for User Interaction
 Flowchart for Dijkstra’s Algorithm: 
 Flowchart for Dijkstra’s Algorithm
 
-(Replace link-to-your-flowchart with the actual links to your flowcharts once created.)
 
 Contributing
 Contributions are welcome! Please adhere to the following guidelines:
